@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "experience": 2,
+  "ingredient": {
+    "item": "atherium:raw_sapphire"
+  },
+  "result": "atherium:sapphire"
+}

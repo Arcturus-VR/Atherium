@@ -1,0 +1,18 @@
+{
+
+  "item.atherium.sapphire": "Sapphire",
+  "item.atherium.raw_sapphire": "Raw Sapphire",
+  "item.atherium.bland_staff": "Staff",
+  "item.atherium.huh": "THIS IS A PLACEHOLDER :p",
+  "item.atherium.manatite": "Manatite Crystal",
+
+  "creativetab.magical_ingredients": "Magical Ingredients",
+
+  "block.atherium.sapphire_block": "Block of Sapphire",
+  "block.atherium.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.atherium.sapphire_ore": "Sapphire Ore",
+  "block.atherium.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.atherium.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.atherium.end_stone_sapphire_ore": "End Stone Sapphire Ore",
+  "block.atherium.manatite_ore": "Manatite Ore"
+}

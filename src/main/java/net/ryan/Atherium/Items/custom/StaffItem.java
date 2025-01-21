@@ -10,6 +10,7 @@ import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.BlockState;
+import net.ryan.Atherium.util.ModTags;
 
 import java.util.Objects;
 
@@ -59,6 +60,6 @@ public class StaffItem extends Item {
     }
 
     private boolean isValubleBlock(BlockState state) {
-        return state.is(Blocks.IRON_ORE) || state.is(Blocks.DIAMOND_ORE);
+        return state.is(ModTags.Blocks.ORES);
     }
 }
